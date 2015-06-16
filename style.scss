@@ -218,6 +218,7 @@ nav {
   margin-top: 10px;
   font-family: $helveticaNeue; 
   font-size: 18px;
+  width: 100%;
   
   @include mobile {
     float: none;
